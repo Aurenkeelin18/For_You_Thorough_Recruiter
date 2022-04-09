@@ -39,11 +39,13 @@ Interestingly the EDA showed that severe weather or special events as bad as the
 
 * **Pandemic:**  'Stay Home' order (start sign) during the Covid-19 outbreak (March 16th - April 30th 2020) helped ozone to reach very low levels in March until March 24th which was the day after the media announced that Judge Hidalgo would declare a “Stay at Home” order (plus sign) to replace the “Shelter in Place” order.
 
-[pandemic](https://github.com/Aurenkeelin18/For_You_Thorough_Recruiter/blob/5d4af71ab19981782fb6df27cdeef3fbfce7b0a8/HoustonAirQuality/06_Images/HAQ_EDA_slide6.png)
+![pandemic](https://github.com/Aurenkeelin18/For_You_Thorough_Recruiter/blob/5d4af71ab19981782fb6df27cdeef3fbfce7b0a8/HoustonAirQuality/06_Images/HAQ_EDA_slide6.png)
 
 * **Saharan Dust Storm:**  The Dust Storms always make the news especially in August 6th-8th 2013 and in June 2020 when the dust haze was highly visible (see picture below). The particulate matter PM 10 barely reached “Moderate” while PM 2.5 remains in the safe zone.
 
 ![dust](https://github.com/Aurenkeelin18/For_You_Thorough_Recruiter/blob/5d4af71ab19981782fb6df27cdeef3fbfce7b0a8/HoustonAirQuality/06_Images/HAQ_EDA_slide5.png)
+
+
 
 
 
