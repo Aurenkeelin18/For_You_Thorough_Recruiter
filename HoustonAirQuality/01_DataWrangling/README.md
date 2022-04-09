@@ -2,7 +2,7 @@
 
 <br>
 
-## Bad Air Days (BADs) In The Daily Life Of Houstonians
+## BAD AIR DAYS (BADs) IN THE DAILY LIFE OF HOUSTONIANS
 Ozone pollution is a known, recurring problem in Houston that is being actively addressed by the City Hall.
 ![first](https://github.com/Aurenkeelin18/For_You_Thorough_Recruiter/blob/9b870975c5c4eb6dfb8c23cc9e8140d63a72402b/HoustonAirQuality/06_Images/HAQ_DW_slide1.png)
 <br>
@@ -16,7 +16,7 @@ Local data was collected from different sources:
 * **Indoor/Outdoor Data:** RIOPA study (Relationship of Indoor, Outdoor, and Personal Air). 
 <br>
 
-## Pollutants and Air Quality Index
+## POLLUTANTS AND AIR QUALITY INDEX
 The AQI describes the impact of pollution on the quality of life and daily activities. When applied to ozone concentrations the effects are as described in the picture below. The AQI is calculated using pollutant concentrations. Since 2008, there is an average of 129 Bad Air Days (BADs) each year in Houston. During BADs, the **Air Quality Index (AQI)** labels may be **“moderate”**, **“unhealthy”**, and a few times a year **“very unhealthy”**.
 <br>
 
@@ -25,7 +25,7 @@ The AQI describes the impact of pollution on the quality of life and daily activ
 
 <br>
 
-## The Hypothesis, The Data, The Plan
+## THE HYPOTHESIS, THE DATA, THE PLAN
 <br>
 
 ![third](https://github.com/Aurenkeelin18/For_You_Thorough_Recruiter/blob/9b870975c5c4eb6dfb8c23cc9e8140d63a72402b/HoustonAirQuality/06_Images/HAQ_DW_slide3.png)
@@ -33,7 +33,7 @@ The AQI describes the impact of pollution on the quality of life and daily activ
 
 <br>
 
-## Thinking the Dataset And Data Wrangling
+## THINKING THE DATASET AND DATA WRANGLING
 The idea is to merge the data into a coherent data set by taking into account geographical locations, and by covering as much territory possible from The Woodlands to the North all the way down to Galveston to the Southeast on the coastline, including Baytown and Angleton (plants). <br>
 ![fourth](https://github.com/Aurenkeelin18/For_You_Thorough_Recruiter/blob/9b870975c5c4eb6dfb8c23cc9e8140d63a72402b/HoustonAirQuality/06_Images/HAQ_DW_slide4.png)
 <br>
