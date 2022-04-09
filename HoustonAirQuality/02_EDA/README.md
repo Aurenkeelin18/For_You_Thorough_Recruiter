@@ -2,6 +2,7 @@
 
 ## Air Quality Index (AQI)
 The AQI, which is calculated using measured pollutant concentrations, describes the impact of pollution on the quality of life and daily activities. When applied to ozone concentrations the effects are as described in the picture below. 
+<br>
 ![tv](https://github.com/Aurenkeelin18/For_You_Thorough_Recruiter/blob/95b676f5c45e343360020798a018b9f1604f10d4/HoustonAirQuality/06_Images/HAQ_AQI.png)
 
 ## Indoor Data 1999-2001 (RIOPA)
