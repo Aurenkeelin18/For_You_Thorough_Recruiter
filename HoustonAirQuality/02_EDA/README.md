@@ -32,12 +32,15 @@ Interestingly the EDA showed that severe weather or special events as bad as the
 
 ![harvey](https://github.com/Aurenkeelin18/For_You_Thorough_Recruiter/blob/5d4af71ab19981782fb6df27cdeef3fbfce7b0a8/HoustonAirQuality/06_Images/HAQ_EDA_slide4.png)
 <br>
+
 * **Flooding:** Tropical Storm Imelda (September 19th, 2019) and Memorial Day Flood (May 25-26th, 2015 - 11 inches of rain in 9 hours) do not disturb the records.
+
 * **Chemical Plant Fire:** Deerpark ITC fire (March 17-20th 2019) lasted several days and released a large plume of smoke that covered Houston but the PM pollutant records (VOCs might have spiked).
+
 * **Pandemic:**  'Stay Home' order (start sign) during the Covid-19 outbreak (March 16th - April 30th 2020) helped ozone to reach very low levels in March until March 24th which was the day after the media announced that Judge Hidalgo would declare a “Stay at Home” order (plus sign) to replace the “Shelter in Place” order.
-*
+
 [pandemic](https://github.com/Aurenkeelin18/For_You_Thorough_Recruiter/blob/5d4af71ab19981782fb6df27cdeef3fbfce7b0a8/HoustonAirQuality/06_Images/HAQ_EDA_slide6.png)
-<br>
+
 * **Saharan Dust Storm:**  The Dust Storms always make the news especially in August 6th-8th 2013 and in June 2020 when the dust haze was highly visible (see picture below). The particulate matter PM 10 barely reached “Moderate” while PM 2.5 remains in the safe zone.
 
 ![dust](https://github.com/Aurenkeelin18/For_You_Thorough_Recruiter/blob/5d4af71ab19981782fb6df27cdeef3fbfce7b0a8/HoustonAirQuality/06_Images/HAQ_EDA_slide5.png)
@@ -45,6 +48,6 @@ Interestingly the EDA showed that severe weather or special events as bad as the
 
 
 
-picture in the tile banner from https://cdn.images.express.co.uk/img/dynamic/151/590x/sun-magnify-780580.jpg
+picture in the title banner from https://cdn.images.express.co.uk/img/dynamic/151/590x/sun-magnify-780580.jpg
 
 
