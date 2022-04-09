@@ -1,8 +1,5 @@
 ![cover](https://github.com/Aurenkeelin18/For_You_Thorough_Recruiter/blob/311f14d30588400fa591b2cc3dc0ca7733a2ccb5/HoustonAirQuality/06_Images/HAQ_DW_Title.png)
 
-
-picture from fr.wikipedia.org/wiki/Jeu_de_billes#/media/Fichier:WestAfricanMarbles.jpg
-
 ## Bad Air Days (BADs) In The Daily Life Of Houstonians
 
 ![first](https://github.com/Aurenkeelin18/For_You_Thorough_Recruiter/blob/9b870975c5c4eb6dfb8c23cc9e8140d63a72402b/HoustonAirQuality/06_Images/HAQ_DW_slide1.png)
@@ -31,8 +28,4 @@ The main issues encountered during the wrangling of the data were:
  ..* **Land use:** Houston is a mozaique of land use (i.e. no zonation) and therefore the notion of land use “near” another land use was added to the land use at the location (e.g. residential near land use).  For instance, a given air quality station can be  “Residential” and “Residential near Industrial”.<br>
 
 
-
-
-
-
-
+picture in the title banner from https://fr.wikipedia.org/wiki/Jeu_de_billes#/media/Fichier:WestAfricanMarbles.jpg
