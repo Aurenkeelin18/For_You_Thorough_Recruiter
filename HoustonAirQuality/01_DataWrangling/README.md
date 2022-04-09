@@ -1,11 +1,11 @@
-![cover](././06_Images/HAQ_DW_Title.png)
+![cover](HoustonAirQuality/06_Images/HAQ_DW_Title.png)
 
 
 picture from https://fr.wikipedia.org/wiki/Jeu_de_billes#/media/Fichier:WestAfricanMarbles.jpg
 
 ## Bad Air Days (BADs) In The Daily Life Of Houstonians
 
-![](./06_Images/HAQ_DW_slide1.png)
+![first](./06_Images/HAQ_DW_slide1.png)
 
 
 ## Pollutants and Air Quality Index
