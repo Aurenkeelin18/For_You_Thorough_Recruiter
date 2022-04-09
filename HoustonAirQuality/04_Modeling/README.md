@@ -40,6 +40,8 @@ The major features of importance of the ozone model are not surprising:
 ![mod2](https://github.com/Aurenkeelin18/For_You_Thorough_Recruiter/blob/c4fcfd18aff3805de5a68b3f7afe187bd43f6746/HoustonAirQuality/06_Images/HAQ_MOD_slide2.png)
 
 This outcome is not surprising because temperature is a catalyst in the formation of ozone. Regarding the wind, it may play a role of transportation, concentration or dispersion of ozone or of the chemicals leading its formation. The model can be used to see how this works in practice.
+![ozoneformation](https://github.com/Aurenkeelin18/For_You_Thorough_Recruiter/blob/2812db2978ba95c3f1d4ff4e7470cd6468a13491/HoustonAirQuality/06_Images/HAQ_OzoneFormation.jpg)
+
 
 
 picture in the title banner from https://taniere-de-kyban.fr/2019/des-modeles-en-pate-a-modeler
