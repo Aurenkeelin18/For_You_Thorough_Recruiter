@@ -1,6 +1,6 @@
 ![cover](https://github.com/Aurenkeelin18/For_You_Thorough_Recruiter/blob/7536a20f50e4a2839979bf4d1bed58245c91f885/HoustonAirQuality/06_Images/HAQ_MAPP_Title.png)
 
-## Individual Contributions of Factors
+## INDIVIDUAL CONTRIBUTIONS OF FACTORS
 The model is used to see what would happen to ozone concentrations levels (low, average and BADs) when the major drivers increase or decrease. For this the degrees are added or removed from the maximum temperature while the wind speed and total precipitation are multiplied by a factor. 
 * **Temperature** is a catalyzer on all levels of ozone though,
 * **High winds** play a dual role of dispersion on high level of ozone but tends to catalyze ozone formation in zones where ozone is low. 
@@ -9,13 +9,14 @@ The model is used to see what would happen to ozone concentrations levels (low, 
 
 ![slide1](https://github.com/Aurenkeelin18/For_You_Thorough_Recruiter/blob/a6bec8792b794238a1c47640c92763d4cb94aad6/HoustonAirQuality/06_Images/HAQ_MAPP_slide1.png)
 
-## Drivers and Buffers
+## DRIVERS AND BUFFERS
 There is a very interesting game of buffer and driver between temperature and wind speed. High wind speeds tend to buffer the action of higher temperature which can be explained by the role of dispersion of the wind (i.e. dispersion of the ozone and also the dispersion of the chemicals involved in its formation). For instance, at the highest temperature (+15F) increasing the wind speed by 50% helps shifting the air quality from “Very Unhealthy” to “Unhealthy”.
 
 ![slide2](https://github.com/Aurenkeelin18/For_You_Thorough_Recruiter/blob/a6bec8792b794238a1c47640c92763d4cb94aad6/HoustonAirQuality/06_Images/HAQ_MAPP_slide2.png)
 
 
-## Conclusions
+## CONCLUSIONS
+
 ![slide3](https://github.com/Aurenkeelin18/For_You_Thorough_Recruiter/blob/a6bec8792b794238a1c47640c92763d4cb94aad6/HoustonAirQuality/06_Images/HAQ_MAPP_slide3.png)
 
 It is very difficult for data scientists to avoid being biased by the data and their personal opinion or experience when preparing datasets to build a model. I am sure my bias came from the many hours during which I got stuck in traffic in Houston, the many hours of small talk about traffic, and the numerous and recurring news and headlines about traffic, haze, smog...etc... 
