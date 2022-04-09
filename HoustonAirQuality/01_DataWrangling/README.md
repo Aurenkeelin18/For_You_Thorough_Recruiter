@@ -23,7 +23,7 @@ The idea is to merge the data into a coherent data set by taking into account ge
 ![fourth](./06_Images/HAQ_DW_slide4.png)
 <br>
 The main issues encountered during the wrangling of the data were:
-..* Matching sampling rates: the sampling rate (i.e. how many times a day or how long the sampling is) differs between pollutants. Only full daily records were kept following the way TCEQ reports to EPA (i.e. maximum values),<br>
+..*Matching sampling rates: the sampling rate (i.e. how many times a day or how long the sampling is) differs between pollutants. Only full daily records were kept following the way TCEQ reports to EPA (i.e. maximum values),<br>
 ..* Connect local weather to each air quality station:  the weather data comes from three weather stations with N, SE and central locations,<br>
 ..* Deal with missing data: using appropriate imputation (time series driven) or by discarding the “day”.  Another problem was that the RIOPA data did not contain the location of the homes where indoor air sampling occurred. Consequently, the RIOPA model could not be connected to the outdoor air quality model,<br>
 ..* Traffic: Yearly traffic count was linked to the air quality stations within Manhattan distance of the traffic data point, subsequently summed and binned,<br>
