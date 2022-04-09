@@ -3,9 +3,10 @@
 <br>
 
 ## Bad Air Days (BADs) In The Daily Life Of Houstonians
+Ozone pollution is a known, recurring problem in Houston that is being actively addressed by the City Hall.
 ![first](https://github.com/Aurenkeelin18/For_You_Thorough_Recruiter/blob/9b870975c5c4eb6dfb8c23cc9e8140d63a72402b/HoustonAirQuality/06_Images/HAQ_DW_slide1.png)
 <br>
-The data was collected from different sources:
+Local data was collected from different sources:
 * **Pollutant Concentrations:** TCEQ’s Tamis DB (Texas Commission on Environmental Quality),
 * **Weather Data:** NOAA (National Oceanic and Atmospheric Administration),
 * **Pollutant and Weather Data:** US EPA (Environmental Protection Agency),
