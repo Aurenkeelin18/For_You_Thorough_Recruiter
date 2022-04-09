@@ -3,6 +3,15 @@
 <br>
 
 ## Bad Air Days (BADs) In The Daily Life Of Houstonians
+The data was collected from different sources:
+*Pollutant Concentrations: TCEQ’s Tamis DB (Texas Commission on Environmental Quality),
+Weather Data: NOAA (National Oceanic and Atmospheric Administration),
+*Pollutant and Weather Data: US EPA (Environmental Protection Agency),
+*Land Use: HGAC (Houston Galveston Area Council),
+*Traffic and Population Data: City of Houston data website,
+*Indoor/Outdoor Data: RIOPA study (Relationship of Indoor, Outdoor, and Personal Air). 
+
+
 
 ![first](https://github.com/Aurenkeelin18/For_You_Thorough_Recruiter/blob/9b870975c5c4eb6dfb8c23cc9e8140d63a72402b/HoustonAirQuality/06_Images/HAQ_DW_slide1.png)
 
@@ -10,6 +19,7 @@
 <br>
 
 ## Pollutants and Air Quality Index
+<br>
 
 ![second](https://github.com/Aurenkeelin18/For_You_Thorough_Recruiter/blob/9b870975c5c4eb6dfb8c23cc9e8140d63a72402b/HoustonAirQuality/06_Images/HAQ_DW_slide2.png)
 
@@ -17,6 +27,7 @@
 <br>
 
 ## The Hypothesis, The Data, The Plan
+<br>
 
 ![third](https://github.com/Aurenkeelin18/For_You_Thorough_Recruiter/blob/9b870975c5c4eb6dfb8c23cc9e8140d63a72402b/HoustonAirQuality/06_Images/HAQ_DW_slide3.png)
 
