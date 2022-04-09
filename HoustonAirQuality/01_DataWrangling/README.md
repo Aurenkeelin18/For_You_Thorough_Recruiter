@@ -1,4 +1,4 @@
-![cover](././06_Images/HAQ_CoverPage_hz.png)
+![cover](././06_Images/HAQ_DW_Title.png)
 
 
 picture from https://fr.wikipedia.org/wiki/Jeu_de_billes#/media/Fichier:WestAfricanMarbles.jpg
