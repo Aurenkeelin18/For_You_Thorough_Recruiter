@@ -5,22 +5,22 @@ picture from https://fr.wikipedia.org/wiki/Jeu_de_billes#/media/Fichier:WestAfri
 
 ## Bad Air Days (BADs) In The Daily Life Of Houstonians
 
-![first](./06_Images/HAQ_DW_slide1.png)
+![first](https://github.com/Aurenkeelin18/For_You_Thorough_Recruiter/blob/9b870975c5c4eb6dfb8c23cc9e8140d63a72402b/HoustonAirQuality/06_Images/HAQ_DW_slide1.png)
 
 
 ## Pollutants and Air Quality Index
 
-![second](./06_Images/HAQ_DW_slide2.png)
+![second](https://github.com/Aurenkeelin18/For_You_Thorough_Recruiter/blob/9b870975c5c4eb6dfb8c23cc9e8140d63a72402b/HoustonAirQuality/06_Images/HAQ_DW_slide2.png)
 
 
 ## The Hypothesis, The Data, The Plan
 
-![third](./06_Images/HAQ_DW_slide3.png)
+![third](https://github.com/Aurenkeelin18/For_You_Thorough_Recruiter/blob/9b870975c5c4eb6dfb8c23cc9e8140d63a72402b/HoustonAirQuality/06_Images/HAQ_DW_slide3.png)
 
 
 ## Thinking the Dataset And Data Wrangling
 The idea is to merge the data into a coherent data set by taking into account geographical locations, and by covering as much territory possible from The Woodlands to the North all the way down to Galveston to the Southeast on the coastline, including Baytown and Angleton (plants). <br>
-![fourth](./06_Images/HAQ_DW_slide4.png)
+![fourth](https://github.com/Aurenkeelin18/For_You_Thorough_Recruiter/blob/9b870975c5c4eb6dfb8c23cc9e8140d63a72402b/HoustonAirQuality/06_Images/HAQ_DW_slide4.png)
 <br>
 The main issues encountered during the wrangling of the data were:
 * Matching sampling rates: the sampling rate (i.e. how many times a day or how long the sampling is) differs between pollutants. Only full daily records were kept following the way TCEQ reports to EPA (i.e. maximum values).<br>
