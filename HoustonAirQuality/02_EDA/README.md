@@ -6,6 +6,8 @@ The AQI, which is calculated using measured pollutant concentrations, describes 
 
 ![tv](https://github.com/Aurenkeelin18/For_You_Thorough_Recruiter/blob/95b676f5c45e343360020798a018b9f1604f10d4/HoustonAirQuality/06_Images/HAQ_AQI.png)
 
+![AQI](https://github.com/Aurenkeelin18/For_You_Thorough_Recruiter/blob/b29e1f1aac22f66c4c378478dc4c9de0d741509a/HoustonAirQuality/06_Images/HAQ_AQICalculation.png)
+
 ## Indoor Data 1999-2001 (RIOPA)
 Although it was quite exciting to attemp modeling indoor data from outdoor data, the RIOPA dataset did not provide enough information, consequently the idea was dropped.
 
