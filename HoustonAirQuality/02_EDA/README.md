@@ -18,14 +18,14 @@ The Exploratory Data Analysis shows that between 2008 and 2020 Ozone is the  pro
 
 <br>
 ![slide2](https://github.com/Aurenkeelin18/For_You_Thorough_Recruiter/blob/5d4af71ab19981782fb6df27cdeef3fbfce7b0a8/HoustonAirQuality/06_Images/HAQ_EDA_slide2.png)
-<br>
+
 
 ## BADs At A Glance (2008-2020)
 There is an average of 129 BADs per year which may be as low as “Moderate” (80-110 days per year) up to “Very Unhealthy” (1 to 2 days per year). Ozone levels are lower in Winter and Spring.
 
 <br>
 ![slide3](https://github.com/Aurenkeelin18/For_You_Thorough_Recruiter/blob/5d4af71ab19981782fb6df27cdeef3fbfce7b0a8/HoustonAirQuality/06_Images/HAQ_EDA_slide3.png)
-<br>
+
 
 ## It looks bad but it is not bad
 
@@ -47,6 +47,6 @@ Interestingly the EDA showed that severe weather or special events as bad as the
 
 
 
-picture in the tile from https://cdn.images.express.co.uk/img/dynamic/151/590x/sun-magnify-780580.jpg
+picture in the tile banner from https://cdn.images.express.co.uk/img/dynamic/151/590x/sun-magnify-780580.jpg
 
 
