@@ -1,14 +1,14 @@
 ![cover](https://github.com/Aurenkeelin18/For_You_Thorough_Recruiter/blob/f9c581996bba87893810a54c314a6c1c8a62f395/HoustonAirQuality/06_Images/HAQ_EDA_Title.png)
 
 ## Air Quality Index (AQI)
-The AQI describes the impact of pollution on the quality of life and daily activities. When applied to ozone concentrations the effects are as described in the picture below. The AQI is calculated using pollutant concentrations.
+The AQI, which is calculated using measured pollutant concentrations, describes the impact of pollution on the quality of life and daily activities. When applied to ozone concentrations the effects are as described in the picture below. 
 ![tv](https://github.com/Aurenkeelin18/For_You_Thorough_Recruiter/blob/95b676f5c45e343360020798a018b9f1604f10d4/HoustonAirQuality/06_Images/HAQ_AQI.png)
 
 ## Indoor Data 1999-2001 (RIOPA)
-ALthough it was quite exciting to attemp modeling indoor data from outdoor data, the RIOPA dataset did not provide enough information and the idea was therefore dropped.
+Although it was quite exciting to attemp modeling indoor data from outdoor data, the RIOPA dataset did not provide enough information, consequently the idea was dropped.
 <br>
 ![riopa](https://github.com/Aurenkeelin18/For_You_Thorough_Recruiter/blob/5d4af71ab19981782fb6df27cdeef3fbfce7b0a8/HoustonAirQuality/06_Images/HAQ_EDA_slide1.png)
-
+<br>
 ## The Most Concerning Pollutants in Outdoor Data
 The Exploratory Data Analysis shows that between 2008 and 2020 Ozone is the  problematic pollutant in Houston. The other pollutants remain in the “safe” zone and rarely go up to moderate if ever. Despite BADs, the weekly and monthly average ozone concentrations remain mostly in the “safe” zone.
 <br>
