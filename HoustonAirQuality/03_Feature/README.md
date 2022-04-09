@@ -1,6 +1,6 @@
 ![cover](https://github.com/Aurenkeelin18/For_You_Thorough_Recruiter/blob/afcc1d3dfeb9131f3779f3ffd1f12ca66a47e019/HoustonAirQuality/06_Images/HAQ_FEAT_Title.png)
 
-# Considerations
+# CONSIDERATIONS
 The outdoor air quality data from EPA/Tamis is composed of 6 dataframes, each containing the information about one pollutant: ozone, CO, NO2, SO2, PM 2.5 and PM 10.
 The first step of the feature engineering is to clean up the dataframes. The second step addresses potential alternate ways to model the data.
 Cleaning up the dataframes involve:
