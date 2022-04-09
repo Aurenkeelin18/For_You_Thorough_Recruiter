@@ -51,7 +51,7 @@ This outcome is not surprising because temperature is a catalyst in the formatio
 ## MODEL APPLICATION
 The model is used to see what would happen to ozone concentrations levels (low, average and BADs) when the major drivers increase or decrease. For this the degrees are added or removed from the maximum temperature while the wind speed and total precipitation are multiplied by a factor. **Temperature is a catalyzer** on all levels of ozone though. **High winds play a dual role** of dispersion on high level of ozone but tends to catalyze ozone formation in zones where ozone is low. **Rain** seems to have no influence by itself.
 **Wind speed buffers temperature**. High wind speeds tend to buffer the action of higher temperature which can be explained by the role of dispersion of the wind (i.e. dispersion of the ozone and also the dispersion of the chemicals involved in its formation). For instance, at the highest temperature (+15F) increasing the wind speed by 50% helps shifting the air quality from “Very Unhealthy” to “Unhealthy”.
-![](./06_Images/HAQ_Application.png)
+![](./06_Images/HAQ_application.png)
 ## SUMMARY AND CONCLUSIONS
 The most concerning pollutant in Houston is ozone. The hypothesis saying that more people in Houston would lead to more traffic and hence more pollution was wrong. The main driver of ozone pollution is the maximum outdoor temperature followed by wind speed.
 The model is built to show trends as opposed to predict daily values. The MAE metric works for this purpose.
