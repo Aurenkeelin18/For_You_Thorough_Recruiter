@@ -49,9 +49,14 @@ Interestingly the EDA showed that severe weather or special events as bad as the
 
 
 
+## EDA Conclusions
+The EDA showed that there are no direct or 'easy' relationships between pollutants and their environmental and human-driven factors. Ozone is the pollutant which is the most obvious to interpret from concentration data. Binned traffic and population growth data may help unravel patterns between ozone and  its precursors (i.e. NO2, CO), and insights about the drivers of pollutants formation and distribution in Houston.
+Other considerations that have not been shown here but will be evaluated with the model are:
+* most and least polluted day of the week.
+* most and least polluted month.
+* special events leading to pollution (e.g. Thanksgiving, 4th of July, Labor Day...)
+* lag between ozone preucrsor release and ozone formation.
 
 
 
 picture in the title banner from https://cdn.images.express.co.uk/img/dynamic/151/590x/sun-magnify-780580.jpg
-
-
