@@ -16,18 +16,16 @@ Although it was quite exciting to attemp modeling indoor data from outdoor data,
 ## The Most Concerning Pollutants in Outdoor Data
 The Exploratory Data Analysis shows that between 2008 and 2020 Ozone is the  problematic pollutant in Houston. The other pollutants remain in the “safe” zone and rarely go up to moderate if ever. Despite BADs, the weekly and monthly average ozone concentrations remain mostly in the “safe” zone.
 
-<br>
 ![slide2](https://github.com/Aurenkeelin18/For_You_Thorough_Recruiter/blob/5d4af71ab19981782fb6df27cdeef3fbfce7b0a8/HoustonAirQuality/06_Images/HAQ_EDA_slide2.png)
 
 
 ## BADs At A Glance (2008-2020)
 There is an average of 129 BADs per year which may be as low as “Moderate” (80-110 days per year) up to “Very Unhealthy” (1 to 2 days per year). Ozone levels are lower in Winter and Spring.
 
-<br>
 ![slide3](https://github.com/Aurenkeelin18/For_You_Thorough_Recruiter/blob/5d4af71ab19981782fb6df27cdeef3fbfce7b0a8/HoustonAirQuality/06_Images/HAQ_EDA_slide3.png)
 
 
-## It looks bad but it is not bad
+## It looks bad but it is not BAD
 
 Interestingly the EDA showed that severe weather or special events as bad as they look did not lead to a BAD.
 * **Hurricanes:** Harvey (August 25-29th, 2017 - cat 4) and Ike (September 13th, 2008 - cat 2) lead to very little records during the event because the air quality stations are turned off and sheltered. There was no rebound of or decrease in  pollution after the event.
