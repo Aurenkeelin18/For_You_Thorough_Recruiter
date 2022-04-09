@@ -1,6 +1,6 @@
 ![cover_photo](./06_Images/HAQ_CoverPage_hz.png)
 ## THE STORY
-Since 2008, there is an average of **129 Bad Air Days (BADs) each year in Houston**. During BADs, the Air Quality Index (AQI) labels may be “**moderate**”, **“unhealthy**”, and a few times a year “**very unhealthy**”. This project aims at **identifying drivers of air pollution** to enable the prediction of the outdoor air quality in Houston for decades to come in function of measurable factors. A secondary aspect of the project is to measure the impact of outdoor air quality on indoor air quality.
+Since 2008, there is an average of **129 Bad Air Days (BADs) each year in Houston,TX**. During BADs, the Air Quality Index (AQI) labels may be “**moderate**”, **“unhealthy**”, and a few times a year “**very unhealthy**”. This project aims at **identifying drivers of air pollution** to enable the prediction of the outdoor air quality in Houston in function of measurable factors. A secondary aspect of the project was to measure the impact of outdoor air quality on indoor air quality but this apsect was abandonned due to the lack of geographical data in the indoor pollution database.
 
 ## THE HYPOTHESIS
 **More people, more traffic, more pollution**
