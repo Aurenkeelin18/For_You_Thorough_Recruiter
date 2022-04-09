@@ -27,7 +27,7 @@ There is an average of 129 BADs per year which may be as low as “Moderate” (
 ![slide3](https://github.com/Aurenkeelin18/For_You_Thorough_Recruiter/blob/5d4af71ab19981782fb6df27cdeef3fbfce7b0a8/HoustonAirQuality/06_Images/HAQ_EDA_slide3.png)
 
 
-## IT LOOKS BAD BUT IT is NOT BADs
+## IT LOOKS BAD BUT IT IS NOT BADs
 
 Interestingly the EDA showed that severe weather or special events as bad as they look did not lead to a BAD.
 * **Hurricanes:** Harvey (August 25-29th, 2017 - cat 4) and Ike (September 13th, 2008 - cat 2) lead to very little records during the event because the air quality stations are turned off and sheltered. There was no rebound of or decrease in  pollution after the event.
