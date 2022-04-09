@@ -1,4 +1,4 @@
-!cover](https://github.com/Aurenkeelin18/For_You_Thorough_Recruiter/blob/f9c581996bba87893810a54c314a6c1c8a62f395/HoustonAirQuality/06_Images/HAQ_EDA_Title.png)
+![cover](https://github.com/Aurenkeelin18/For_You_Thorough_Recruiter/blob/f9c581996bba87893810a54c314a6c1c8a62f395/HoustonAirQuality/06_Images/HAQ_EDA_Title.png)
 
 ## Title 1
 
