@@ -19,6 +19,7 @@ The data was collected from different sources:
 <br>
 
 ## Pollutants and Air Quality Index
+The AQI describes the impact of pollution on the quality of life and daily activities. When applied to ozone concentrations the effects are as described in the picture below. The AQI is calculated using pollutant concentrations.
 <br>
 
 ![second](https://github.com/Aurenkeelin18/For_You_Thorough_Recruiter/blob/9b870975c5c4eb6dfb8c23cc9e8140d63a72402b/HoustonAirQuality/06_Images/HAQ_DW_slide2.png)
