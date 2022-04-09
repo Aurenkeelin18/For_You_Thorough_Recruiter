@@ -3,6 +3,8 @@
 <br>
 
 ## Bad Air Days (BADs) In The Daily Life Of Houstonians
+![first](https://github.com/Aurenkeelin18/For_You_Thorough_Recruiter/blob/9b870975c5c4eb6dfb8c23cc9e8140d63a72402b/HoustonAirQuality/06_Images/HAQ_DW_slide1.png)
+<br>
 The data was collected from different sources:
 * **Pollutant Concentrations:** TCEQ’s Tamis DB (Texas Commission on Environmental Quality),
 * **Weather Data:** NOAA (National Oceanic and Atmospheric Administration),
@@ -10,16 +12,10 @@ The data was collected from different sources:
 * **Land Use:** HGAC (Houston Galveston Area Council),
 * **Traffic and Population Data:** City of Houston data website,
 * **Indoor/Outdoor Data:** RIOPA study (Relationship of Indoor, Outdoor, and Personal Air). 
-
-
-
-![first](https://github.com/Aurenkeelin18/For_You_Thorough_Recruiter/blob/9b870975c5c4eb6dfb8c23cc9e8140d63a72402b/HoustonAirQuality/06_Images/HAQ_DW_slide1.png)
-
-
 <br>
 
 ## Pollutants and Air Quality Index
-The AQI describes the impact of pollution on the quality of life and daily activities. When applied to ozone concentrations the effects are as described in the picture below. The AQI is calculated using pollutant concentrations.
+The AQI describes the impact of pollution on the quality of life and daily activities. When applied to ozone concentrations the effects are as described in the picture below. The AQI is calculated using pollutant concentrations. Since 2008, there is an average of 129 Bad Air Days (BADs) each year in Houston. During BADs, the **Air Quality Index (AQI)** labels may be **“moderate”**, **“unhealthy”**, and a few times a year **“very unhealthy”**.
 <br>
 
 ![second](https://github.com/Aurenkeelin18/For_You_Thorough_Recruiter/blob/9b870975c5c4eb6dfb8c23cc9e8140d63a72402b/HoustonAirQuality/06_Images/HAQ_DW_slide2.png)
