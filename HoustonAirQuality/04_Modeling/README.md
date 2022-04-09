@@ -1,6 +1,6 @@
 ![cover](https://github.com/Aurenkeelin18/For_You_Thorough_Recruiter/blob/a35e4f5f2c3fae011ffc7f84abc9145cf48ae13d/HoustonAirQuality/06_Images/HAQ_MOD_Title.png)
 
-## Choosing the Appropriate Model
+## CHOOSING THE APPROPRIATE MODEL
 The following models were tested:
 * Linear Regression with sklearn linear_model.
 * Linear Regression with statsmodel OLS.
@@ -25,16 +25,16 @@ The XGB Regressor was tuned using the following parameters:
 * Eta at 1.3 and 20 for maxdepth.
 
 MAE is the primary metric because the aim of the model is to show trends rather than predicting daily data. RMSE is used to keep an eye on the distance between daily data and predicted data. 
-**The metrics of the final model are: MAE = 4.3 and RMSE = 6.2.**
+**The metrics of the final XGB model are: MAE = 4.3 and RMSE = 6.2.**
 
-## Model Results
+## MODEL RESULTS
 The features of importance show that maximum temperature, wind speed and daily precipitation are the main drivers behind ozone concentrations in the air. Being  near an industrial zone seems to play a role thought minor. Population and traffic have little influence.
 The model shows that the hypothesis “More people, more traffic, more pollution” is likely incorrect.  The graph ozone daily measurement vs. predictions shows that the model is not built for daily predictions.
 The major features of importance of the ozone model are not surprising:
-- the first feature is the maximum temperature, which is a catalyst in the formation of ozone.
-- the second and third features are the wind, which transports the ozone away from its source and  is the reason why ozone can be found in remote country areas.
-- the fourth feature is the amount of rain precipitation, which is interesting because rainy days tend to be less polluted because the pollutants are washed away by the rain. This phenomenon is called 'wet deposition'. Here the influence of rain will have to be determined: is it washing away pollution or washing it in?
-- the fifth feature is industrial activity. Note that the pollution is not in the industrial zone, but 'near' it, which story works well with the influence of the  wind and the rain on ozone formation.
+* the first feature is the maximum temperature, which is a catalyst in the formation of ozone.
+* the second and third features are the wind, which transports the ozone away from its source and  is the reason why ozone can be found in remote country areas.
+* the fourth feature is the amount of rain precipitation, which is interesting because rainy days tend to be less polluted because the pollutants are washed away by the rain. This phenomenon is called 'wet deposition'. Here the influence of rain will have to be determined: is it washing away pollution or washing it in?
+* the fifth feature is industrial activity. Note that the pollution is not in the industrial zone, but 'near' it, which story works well with the influence of the  wind and the rain on ozone formation.
 
 
 ![mod2](https://github.com/Aurenkeelin18/For_You_Thorough_Recruiter/blob/c4fcfd18aff3805de5a68b3f7afe187bd43f6746/HoustonAirQuality/06_Images/HAQ_MOD_slide2.png)
