@@ -1,24 +1,24 @@
 ![cover](https://github.com/Aurenkeelin18/For_You_Thorough_Recruiter/blob/311f14d30588400fa591b2cc3dc0ca7733a2ccb5/HoustonAirQuality/06_Images/HAQ_DW_Title.png)
 
-
+<br>
 ## Bad Air Days (BADs) In The Daily Life Of Houstonians
 
 ![first](https://github.com/Aurenkeelin18/For_You_Thorough_Recruiter/blob/9b870975c5c4eb6dfb8c23cc9e8140d63a72402b/HoustonAirQuality/06_Images/HAQ_DW_slide1.png)
 
 
-
+<br>
 ## Pollutants and Air Quality Index
 
 ![second](https://github.com/Aurenkeelin18/For_You_Thorough_Recruiter/blob/9b870975c5c4eb6dfb8c23cc9e8140d63a72402b/HoustonAirQuality/06_Images/HAQ_DW_slide2.png)
 
 
-
+<br>
 ## The Hypothesis, The Data, The Plan
 
 ![third](https://github.com/Aurenkeelin18/For_You_Thorough_Recruiter/blob/9b870975c5c4eb6dfb8c23cc9e8140d63a72402b/HoustonAirQuality/06_Images/HAQ_DW_slide3.png)
 
 
-
+<br>
 ## Thinking the Dataset And Data Wrangling
 The idea is to merge the data into a coherent data set by taking into account geographical locations, and by covering as much territory possible from The Woodlands to the North all the way down to Galveston to the Southeast on the coastline, including Baytown and Angleton (plants). <br>
 ![fourth](https://github.com/Aurenkeelin18/For_You_Thorough_Recruiter/blob/9b870975c5c4eb6dfb8c23cc9e8140d63a72402b/HoustonAirQuality/06_Images/HAQ_DW_slide4.png)
