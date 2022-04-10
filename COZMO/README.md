@@ -13,7 +13,7 @@ Interested in learning more about Cozmo? Visit the [developper website](https://
 ![](04_Documentation/Images/samplingstrategy.png)
 
 <br>
-Watch the sampling video: [nnn]https://user-images.githubusercontent.com/68656802/162626900-25fed48a-d4df-487f-8ee3-277e0460e1dc.mp4
+Watch the sampling video: https://user-images.githubusercontent.com/68656802/162626900-25fed48a-d4df-487f-8ee3-277e0460e1dc.mp4
 
 
 # IMAGE PREPARATION AND SELECTION
