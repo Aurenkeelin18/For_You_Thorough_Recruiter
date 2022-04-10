@@ -29,7 +29,7 @@ The model is a keras sequential model, optimized by root mean square propagation
 
 # MODEL APPLICATION
 Cozmo looks at an item and collects new images. The images are normalized and sent to the model. The model classifies the images and provides an answer. Cozmo says what it is and giggles when he identifies a known letter. 
-See Cozmo identifies the letters [watch the reading video](COZMO/04_Documentation/Video/Cozmo_Read_lr.mp4)
+See Cozmo identifies the letters ![watch the reading video](https://github.com/Aurenkeelin18/For_You_Thorough_Recruiter/blob/cb63d6408fac49627adcbb3927fd67fc69287464/COZMO/04_Documentation/Video/Cozmo_Read_lr.mp4)
 
 # CONCLUSION
 Simple Convolutional Neural Networks are relatively easy to build and make very powerful models for image classification and object detection.
