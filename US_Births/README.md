@@ -1,1 +1,1 @@
-![Title_Banner](./USB_Images/USB_Title.png)
+![Title_Banner](./USB_Images/USB_Title_Soft.png)
