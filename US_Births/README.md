@@ -2,7 +2,8 @@
 
 ## THE DATA: U.S. BIRTHS (1994-2014)
 I read an article written by **Ravi Charan** in **Towards Data Science** that discussed the uniform birthday problem and proposed a model to describe the variations in birth [read article](https://towardsdatascience.com/how-popular-is-your-birthday-91ab133f7fc4) .
-Thought the article was interesting I did not think the content of the article was really answering the question raised in the title **"How Popular is your Birthday"**, as in "How Popular is **MY** Birthday" **:)** So I set out to get the [data](https://github.com/fivethirtyeight/data/tree/master/births) and selfishly look into it (the data is a combination of the National Center for Health Statistics (1994-2003) and the Social Security Administration (2000-2014).
+Thought the article was interesting I did not think the content of the article was really answering the question raised in the title **"How Popular is your Birthday"**, as in "How Popular is **MY** Birthday" **:)** So I set out to get the [data](https://github.com/fivethirtyeight/data/tree/master/births) and selfishly look into it (the data is a combination of the National Center for Health Statistics (1994-2003) and the Social Security Administration (2000-2014)).
+
 Another article written by **Carl Bialik** on a similar topic ["Some people are too superstitious to have a baby on Friday the 13th"](https://fivethirtyeight.com/features/some-people-are-too-superstitious-to-have-a-baby-on-friday-the-13th/)  amused me because my 13th birthday was a Friday and I was born at 1pm (assumed 13h00 in France, my birth country).
 
 ## THE QUESTIONS
