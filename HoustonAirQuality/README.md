@@ -16,7 +16,7 @@ The data was collected from different sources:
 * [Indoor/Outdoor Data: RIOPA study (Relationship of Indoor, Outdoor, and Personal Air).](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/7UBE7P)
 ![](./06_Images/HAQ_HoustonMap.jpg)
 
-## DATA WRANGLING [link to Data Wrangling](https://github.com/Aurenkeelin18/For_You_Thorough_Recruiter/blob/26172496fb5b58642563a6e7ffeafc3eec920442/HoustonAirQuality/01_DataWrangling/ "data wrangling")
+## DATA WRANGLING [link](HoustonAirQuality/01_DataWrangling/README.md)
 The idea is to merge the data into a coherent data set by taking into account geographical locations, and by covering as much territory possible from The Woodlands to the North all the way down to Galveston to the Southeast on the coastline, including Baytown and Angleton (plants).
 **![](./06_Images/HAQ_Overview_OutdoorOnly.png)** <br>
 The main issues encountered during the wrangling of the data were matching sampling rates, connect local weather to each air quality station, deal with missing data, and integrate traffic count, land use  and population data to the data set.
