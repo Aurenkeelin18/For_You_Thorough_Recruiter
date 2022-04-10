@@ -39,6 +39,7 @@ Interestingly the EDA showed that severe weather, such as hurricanes and floodin
 During the **pandemic**, the'Stay Home' order during the Covid-19 outbreak (March 16th - April 30th 2020) helped ozone to reach very low levels in March until March 24th which was the day after the media announced that Judge Hidalgo would declare a “Stay at Home” order to replace the “Shelter in Place” order.
 
 ## MODEL AND METRICS [more details on Model](https://github.com/Aurenkeelin18/For_You_Thorough_Recruiter/blob/26172496fb5b58642563a6e7ffeafc3eec920442/HoustonAirQuality/04_Modeling/)
+
 The model could be built focusing on ozone concentration values or AQI labels.  
 * In practice the dataset was too **imbalanced** to allow the detection of the rarer labels “Unhealthy” and “Very Unhealthy” by algorithms like Logistic Regression, SVM, KNN and XGB Classifier. 
 * Applying **SMOTE** to the dataset did not help the classification models because it forced the model to **overfit the minority classes**.  
