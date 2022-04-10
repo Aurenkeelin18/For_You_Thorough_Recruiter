@@ -25,4 +25,4 @@ picture in the title banner from https://www.smithers.com/resources/2019/feb/fut
 
 <br>
 [BACK TO HAQ MAIN PAGE SUMMARY](https://github.com/Aurenkeelin18/For_You_Thorough_Recruiter/tree/main/HoustonAirQuality)
-<br>
+
