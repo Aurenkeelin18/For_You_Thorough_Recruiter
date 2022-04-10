@@ -1,4 +1,5 @@
-[BACK TO HAQ MAIN PAGE SUMMARY](https://github.com/Aurenkeelin18/For_You_Thorough_Recruiter/blob/26172496fb5b58642563a6e7ffeafc3eec920442/HoustonAirQuality/)
+[BACK TO HAQ MAIN PAGE SUMMARY](https://github.com/Aurenkeelin18/For_You_Thorough_Recruiter/tree/main/HoustonAirQuality)
+<br>
 ![cover](https://github.com/Aurenkeelin18/For_You_Thorough_Recruiter/blob/a35e4f5f2c3fae011ffc7f84abc9145cf48ae13d/HoustonAirQuality/06_Images/HAQ_MOD_Title.png)
 
 ## CHOOSING THE APPROPRIATE MODEL
@@ -47,3 +48,6 @@ This outcome is not surprising because temperature is a catalyst in the formatio
 
 
 picture in the title banner from https://taniere-de-kyban.fr/2019/des-modeles-en-pate-a-modeler
+<br>
+[BACK TO HAQ MAIN PAGE SUMMARY](https://github.com/Aurenkeelin18/For_You_Thorough_Recruiter/tree/main/HoustonAirQuality)
+<br>
