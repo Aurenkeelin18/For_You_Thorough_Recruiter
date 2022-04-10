@@ -34,7 +34,9 @@ We will now be looking at birthdays. The way I handled it is very simple:
 - finally the resulting dataframe is plotted as a calendar heatmap.
 
 (to the left) The heatcalendar of the most popular birthdays show the vast majority of popular birthday happens during the second half of the year. September seems to be the most popular birthday month.
+
 (middle) The least popular birthdays can be summarized as "not happening in Summer'. Interestingly christmas (12/25) showed one of the lowest daily births for some years, but when cumulated over 21 years it turns out to be a popular birthday. 
+
 (to the right) Once christmas is removed from the least popular birthdays, the picture is clearer. We can see that christmas eve (12/24) and the Thanksgiving period (the 4th Thursday of November) come second and third in the highest birth rates within the unpopular birthdays. The month with the less popular birthdays are found in January, February and March. Note that the popular birthdays bear 2.5 times more births than the unpopular birthdays.
 My birthday, March 13th, turns out to be an unpopular birthday with an average birth count for its category.
 
