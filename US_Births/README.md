@@ -1,4 +1,4 @@
-![Title_Banner](./USB_Images/USB_Title_Soft.png)
+![Title_Banner](./USB_Images/USB_Title_Soft2.png)
 
 ## THE DATA: U.S. BIRTHS (1994-2014)
 I read an article written by **Ravi Charan** in **Towards Data Science** that discussed the uniform birthday problem and proposed a model to describe the variations in birth [read article](https://towardsdatascience.com/how-popular-is-your-birthday-91ab133f7fc4) .
