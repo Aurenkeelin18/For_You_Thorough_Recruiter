@@ -1,6 +1,6 @@
 [BACK TO HAQ MAIN PAGE SUMMARY](https://github.com/Aurenkeelin18/For_You_Thorough_Recruiter/tree/main/HoustonAirQuality)
 <br>
-![cover](https://github.com/Aurenkeelin18/For_You_Thorough_Recruiter/blob/a35e4f5f2c3fae011ffc7f84abc9145cf48ae13d/HoustonAirQuality/06_Images/HAQ_MOD_Title.png)
+![cover](https://github.com/Aurenkeelin18/For_You_Thorough_Recruiter/blob/main/HoustonAirQuality/06_Images/HAQ_MOD_Title.png)
 
 ## CHOOSING THE APPROPRIATE MODEL
 The following models were tested:
@@ -13,7 +13,7 @@ The following models were tested:
 * K Nearest Neighbor with sklearn KNeighborsClassifier.
 * Extreme Gradient Boosting with XGBoost [https://xgboost.readthedocs.io/en/latest/]
 
-![mod](https://github.com/Aurenkeelin18/For_You_Thorough_Recruiter/blob/c4fcfd18aff3805de5a68b3f7afe187bd43f6746/HoustonAirQuality/06_Images/HAQ_MOD_slide1.png)
+![mod](https://github.com/Aurenkeelin18/For_You_Thorough_Recruiter/blob/main/HoustonAirQuality/06_Images/HAQ_MOD_slide1.png)
 
 The model could be built focusing on ozone concentration values or AQI labels:
 * In practice the dataset was too imbalanced to allow the detection of the rarer labels “Unhealthy” and “Very Unhealthy” by algorithms like Logistic Regression, SVM, KNN and XGB Classifier. Applying SMOTE to the dataset did not help the classification models because it forced the model to overfit the minority classes. 
@@ -39,11 +39,11 @@ The major features of importance of the ozone model are not surprising:
 * the fifth feature is industrial activity. Note that the pollution is not in the industrial zone, but 'near' it, which story works well with the influence of the  wind and the rain on ozone formation.
 
 
-![mod2](https://github.com/Aurenkeelin18/For_You_Thorough_Recruiter/blob/c4fcfd18aff3805de5a68b3f7afe187bd43f6746/HoustonAirQuality/06_Images/HAQ_MOD_slide2.png)
+![mod2](https://github.com/Aurenkeelin18/For_You_Thorough_Recruiter/blob/main/HoustonAirQuality/06_Images/HAQ_MOD_slide2.png)
 
 This outcome is not surprising because temperature is a catalyst in the formation of ozone. Regarding the wind, it may play a role of transportation, concentration or dispersion of ozone or of the chemicals leading its formation. The model can be used to see how this works in practice.
 
-![ozoneformation](https://github.com/Aurenkeelin18/For_You_Thorough_Recruiter/blob/2812db2978ba95c3f1d4ff4e7470cd6468a13491/HoustonAirQuality/06_Images/HAQ_OzoneFormation.jpg)
+![ozoneformation](https://github.com/Aurenkeelin18/For_You_Thorough_Recruiter/blob/main/HoustonAirQuality/06_Images/HAQ_OzoneFormation.jpg)
 
 
 
