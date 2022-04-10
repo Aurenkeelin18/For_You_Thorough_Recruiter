@@ -1,5 +1,6 @@
-[BACK TO HAQ MAIN PAGE SUMMARY](https://github.com/Aurenkeelin18/For_You_Thorough_Recruiter/blob/26172496fb5b58642563a6e7ffeafc3eec920442/HoustonAirQuality/)
-![cover](https://github.com/Aurenkeelin18/For_You_Thorough_Recruiter/blob/afcc1d3dfeb9131f3779f3ffd1f12ca66a47e019/HoustonAirQuality/06_Images/HAQ_FEAT_Title.png)
+[BACK TO HAQ MAIN PAGE SUMMARY](https://github.com/Aurenkeelin18/For_You_Thorough_Recruiter/tree/main/HoustonAirQuality)
+<br>
+![cover](https://github.com/Aurenkeelin18/For_You_Thorough_Recruiter/blob/main/HoustonAirQuality/06_Images/HAQ_FEAT_Title.png)
 
 # CONSIDERATIONS
 The outdoor air quality data from EPA/Tamis is composed of 6 dataframes, each containing the information about one pollutant: ozone, CO, NO2, SO2, PM 2.5 and PM 10.
@@ -21,3 +22,6 @@ Another interesting test is to try to model using two different y:
 
 
 picture in the title banner from https://www.smithers.com/resources/2019/feb/future-packaging-trends-2018-to-2028
+
+<br>
+[BACK TO HAQ MAIN PAGE SUMMARY](https://github.com/Aurenkeelin18/For_You_Thorough_Recruiter/tree/main/HoustonAirQuality)
