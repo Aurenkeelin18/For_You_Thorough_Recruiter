@@ -19,14 +19,15 @@ My questions are:
 * How many kids are part of the "13th Birthday on Friday 13th" VIP13 club (like I do)?
 
 ## OVERVIEW OF U.S. BIRTHS (1994-2014)
-![](US_Births/USB_Images/USB_Overview.png)
+![](./USB_Images/USB_Overview.png)
 There is an average of 4.1 million births in the U.S. each year from 1994 to 2014, ranging from 3.88 to 4.38 millions. This makes a total of 85.71 million babies born in the U.S. between 1994 and 2014. All in all there is not a huge variation of the total births throughout the years. 
 The distribution of births within months does not show much variation. It tends to reflect the number of days that contains each months i.e. months with 31 days tends to dominate, except September which bears more births than October.
 Births tends to happen rather during the week than during the weekend. There were 8 to 9 million births on Saturday and Sunday, while there is at least 13 million births each weekday.
 
 
 ## MOST POPULAR BIRTHDAYS
-![](US_Births/USB_Images/USB_PopBirthdays.png)
+![](./USB_Images/USB_PopBirthdays.png)
+
 We will now be looking at birthdays. The way I handled it is very simple:
 - first I collected the top 13 most (and least) popular birthday for each year between 1994 and 2014.
 - then for each birthday I summed up the births that happened between 1994 and 2014.
@@ -39,7 +40,8 @@ My birthday, March 13th, turns out to be an unpopular birthday with an average b
 
 
 ## MARCH 13TH
-![](US_Births/USB_Images/USB_March13Cycle.png)
+![](./USB_Images/USB_March13Cycle.png)
+
 The 'March 13th' time series plot shows an interesting cyclicity. The birth rate on March 13th tends to drop dramatically (-6,000) every five years. It has nothing to do with superstition (i.e. falling on a Friday) or leap years or anything obvious related to birth.
 We can see also a cyclicity in the most popular birthdays (upper group from 11k to 16k births) and the least popular birthdays (lower group from 7k to 11k).
 For the numbers: 224,642 babies were born on March 13th between 1994 and 2014.
@@ -47,7 +49,7 @@ For the numbers: 224,642 babies were born on March 13th between 1994 and 2014.
 ## BIRTHDAY CYLCES: AMERICAN BABIES HATE WEEKENDS!
 The cyclicity has nothing to do with superstition (i.e. falling on a Friday) but it tied to a fact we have seen earlier: birth happens more likely during the week (babies hate weekends). A given birthday record less births if it falls on a Saturday or Sunday.
 
-![](US_Births/USB_Images/USB_CYLCES.png)
+![](./USB_Images/USB_CYLCES.png)
 
 ## VIP13 CLUB
 The VIP Club from 1994 to 2014:
