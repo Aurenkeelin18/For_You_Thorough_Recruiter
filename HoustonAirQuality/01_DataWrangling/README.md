@@ -50,6 +50,8 @@ The main issues encountered during the wrangling of the data were:
 
 
 picture in the title banner from https://fr.wikipedia.org/wiki/Jeu_de_billes#/media/Fichier:WestAfricanMarbles.jpg
+
 <br>
+
 [BACK TO HAQ MAIN PAGE SUMMARY](https://github.com/Aurenkeelin18/For_You_Thorough_Recruiter/tree/main/HoustonAirQuality)
 <br>
