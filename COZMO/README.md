@@ -1,6 +1,6 @@
 ![](04_Documentation/Images/COZMO_Title.png)
 <br>
-Interested in learning more about Cozmo? See the developer website https://developer.anki.com/   and Cozmo by Digital Dream Lab https://www.digitaldreamlabs.com/pages/cozmo
+Interested in learning more about Cozmo? Visit the [developper website](https://developer.anki.com/)   and the [Cozmo by Digital Dream Lab website](https://www.digitaldreamlabs.com/pages/cozmo)
 <br>
 
 # PLAN
@@ -17,7 +17,7 @@ Interested in learning more about Cozmo? See the developer website https://devel
 
 <br>
 
-#  IMAGE PREPARATION AND SELECTION
+# IMAGE PREPARATION AND SELECTION
 
 ![](04_Documentation/Images/imageselection.png)
 
