@@ -1,4 +1,5 @@
 [BACK TO HAQ MAIN PAGE SUMMARY](https://github.com/Aurenkeelin18/For_You_Thorough_Recruiter/tree/main/HoustonAirQuality)
+<br>
 ![cover](https://github.com/Aurenkeelin18/For_You_Thorough_Recruiter/blob/f9c581996bba87893810a54c314a6c1c8a62f395/HoustonAirQuality/06_Images/HAQ_EDA_Title.png)
 
 ## AIR QUALITY INDEX (AQI)
@@ -61,4 +62,7 @@ Other considerations that have not been shown here but will be evaluated with th
 
 
 picture in the title banner from https://cdn.images.express.co.uk/img/dynamic/151/590x/sun-magnify-780580.jpg
+<br>
+
 [BACK TO HAQ MAIN PAGE SUMMARY](https://github.com/Aurenkeelin18/For_You_Thorough_Recruiter/tree/main/HoustonAirQuality)
+<br>
