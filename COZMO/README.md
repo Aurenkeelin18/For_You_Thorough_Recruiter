@@ -1,3 +1,5 @@
+[BACK TO MAIN REPO PAGE](https://github.com/Aurenkeelin18/For_You_Thorough_Recruiter)
+
 ![](04_Documentation/Images/COZMO_Title.png)
 <br>
 Interested in learning more about Cozmo? Visit the [developper website](https://developer.anki.com/)   and the [Cozmo by Digital Dream Lab website](https://www.digitaldreamlabs.com/pages/cozmo)
@@ -40,3 +42,5 @@ Simple Convolutional Neural Networks are relatively easy to build and make very 
 The sequential model used in this project has good accuracy (>80%) but the accuracy curve shows that there is a need to shuffle the images between training and validation. Adding more images would be also beneficial.
 <br>
 As of now Cozmo just says the prediction of the model or “I don’t know this one” if the class is not known from the model yet. A confidence level using the model uncertainty and data uncertainty could be added to the program to prevent Cozmo from saying a wrong prediction.
+
+[BACK TO MAIN REPO PAGE](https://github.com/Aurenkeelin18/For_You_Thorough_Recruiter)
