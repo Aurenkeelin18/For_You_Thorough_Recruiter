@@ -1,3 +1,4 @@
+[BACK TO HAQ MAIN PAGE SUMMARY](https://github.com/Aurenkeelin18/For_You_Thorough_Recruiter/blob/26172496fb5b58642563a6e7ffeafc3eec920442/HoustonAirQuality/)
 ![cover](https://github.com/Aurenkeelin18/For_You_Thorough_Recruiter/blob/7536a20f50e4a2839979bf4d1bed58245c91f885/HoustonAirQuality/06_Images/HAQ_MAPP_Title.png)
 
 ## INDIVIDUAL CONTRIBUTIONS OF FACTORS
@@ -37,6 +38,8 @@ There are many ways the model can be improved:
 * VOCs emission could be added, which is part of the ozone formation equation.
 * Industrial emission could be added, if available with geographical details.
 * The imbalance of the AQI labels could be overcome using a Deep Learning model.
+
+You may find the PowerPoint and pdf reoprts [here](https://github.com/Aurenkeelin18/For_You_Thorough_Recruiter/blob/26172496fb5b58642563a6e7ffeafc3eec920442/HoustonAirQuality/07_Reports/)
 
 
 
