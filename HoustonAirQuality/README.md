@@ -26,7 +26,7 @@ The **AQI** describes the **impact of pollution on the quality of life and daily
 
 ![](./06_Images/HAQ_AQI.png)
 
-## EXPLORATORY DATA ANALYSIS (EDA) [see more](HoustonAirQuality/02_EDA/README.md)
+## EXPLORATORY DATA ANALYSIS (EDA) [see more](https://github.com/Aurenkeelin18/For_You_Thorough_Recruiter/blob/main/HoustonAirQuality/02_EDA/README.md)
 ### Pollutants
 The EDA shows that between 2008 and 2020 **Ozone** is the  problematic pollutant in Houston. The other pollutants remain in the “safe” zone and rarely go up to moderate if ever. Despite BADs, the weekly and monthly average ozone concentrations remain mostly in the “safe” zone.
 There is an **average of 129 BADs per year** which may be as low as “Moderate” (80-110 days per year) up to “Very Unhealthy” (1 to 2 days per year). Ozone levels are lower in Winter and Spring.
@@ -38,7 +38,7 @@ Interestingly the EDA showed that severe weather, such as hurricanes and floodin
 
 During the **pandemic**, the'Stay Home' order during the Covid-19 outbreak (March 16th - April 30th 2020) helped ozone to reach very low levels in March until March 24th which was the day after the media announced that Judge Hidalgo would declare a “Stay at Home” order to replace the “Shelter in Place” order.
 
-## MODEL AND METRICS [see more](HoustonAirQuality/04_Modeling/README.md)
+## MODEL AND METRICS [see more](https://github.com/Aurenkeelin18/For_You_Thorough_Recruiter/blob/main/HoustonAirQuality/04_Modeling/README.md)
 
 The model could be built focusing on ozone concentration values or AQI labels.  
 * In practice the dataset was too **imbalanced** to allow the detection of the rarer labels “Unhealthy” and “Very Unhealthy” by algorithms like Logistic Regression, SVM, KNN and XGB Classifier. 
@@ -58,7 +58,7 @@ This outcome is not surprising because temperature is a catalyst in the formatio
 
 ![](./06_Images/HAQ_OzoneFormation.jpg)
 
-## MODEL APPLICATION [see more](HoustonAirQuality/05_ModelApplication/)
+## MODEL APPLICATION [see more](https://github.com/Aurenkeelin18/For_You_Thorough_Recruiter/blob/main/HoustonAirQuality/05_ModelApplication/README.md)
 The model is used to see what would happen to ozone concentrations levels (low, average and BADs) when the major drivers increase or decrease. For this the degrees are added or removed from the maximum temperature while the wind speed and total precipitation are multiplied by a factor. 
 * **Temperature is a catalyzer** on all levels of ozone though. 
 * **High winds play a dual role** of dispersion on high level of ozone but tends to catalyze ozone formation in zones where ozone is low. 
