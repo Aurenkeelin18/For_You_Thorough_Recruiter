@@ -30,7 +30,8 @@ The model is a keras sequential model, optimized by root mean square propagation
 # MODEL APPLICATION
 Cozmo looks at an item and collects new images. The images are normalized and sent to the model. The model classifies the images and provides an answer. Cozmo says what it is and giggles when he identifies a known letter. 
 See Cozmo identifies the letters.
-Watch the reading video: [](https://user-images.githubusercontent.com/68656802/162626956-638d79b7-8939-4e4f-9ec6-fc4a1f6990a1.mp4)
+<br>
+Watch the reading video: ![](https://user-images.githubusercontent.com/68656802/162626956-638d79b7-8939-4e4f-9ec6-fc4a1f6990a1.mp4)
 
 
 # CONCLUSION
