@@ -59,7 +59,7 @@ The cyclicity has nothing to do with superstition (i.e. falling on a Friday) but
 The VIP Club from 1994 to 2014:
 - 460,584 americans have celebrated or will celebrate their 13th birthday on a Friday 13th. This represent 0.5% of the 85.7 millions babies born between 1994 and 2014.
 - 48,453 americans were  born on March 13th. This represent 0.06% of the 85.7 millions babies born between 1994 and 2014.
-- Note that March 13th 2013 fell on a Wednesday.
+
 ![VIP13](./USB_Images/USB_GRAPHVIP13.png)
 
 
