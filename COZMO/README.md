@@ -43,9 +43,9 @@ The sequential model used in this project has good accuracy (>80%) but the accur
 As of now Cozmo just says the prediction of the model or “I don’t know this one” if the class is not known from the model yet. A confidence level using the model uncertainty and data uncertainty could be added to the program to prevent Cozmo from saying a wrong prediction.
 
 Interested in seeing other examples of object detection with Cozmo? 
-* [IBM Data Scientists](https://developer.ibm.com/patterns/visual-recognition-with-tensorflow-and-openwhisk/) 
-* [Charlie Harrington](https://blog.floydhub.com/teaching-my-robot-with-tensorflow/) 
-* [Houston](https://github.com/sahouston/Cozmo-Autonomous-Driving)
+* [IBM Data Scientists toy detection](https://developer.ibm.com/patterns/visual-recognition-with-tensorflow-and-openwhisk/) 
+* [Charlie Harrington's toothpaste and seltzer detection](https://blog.floydhub.com/teaching-my-robot-with-tensorflow/) 
+* [Houston's Cozmo autonomous driving](https://github.com/sahouston/Cozmo-Autonomous-Driving)
 <br>
 
 
